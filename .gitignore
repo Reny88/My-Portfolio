@@ -1,0 +1,9 @@
+# Node.js
+/node_modules/
+
+# IDEs
+.vscode/
+
+git init
+git add .
+git commit -m "Add .gitignore"
